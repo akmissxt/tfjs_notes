@@ -1,7 +1,4 @@
 [TOC]
-<style type="text/css">
-img{text-align: center; margin: 0 auto;}
-</style>
 ## 1. 简介
 
 在这个教程里，我们会用卷积神经网络建立一个TensorFlow.js模型去识别手写数字。首先，我们让识别器去"看"数千张手写数字的图片和它们的标签。然后，我们会用模型没有看过的的测试数据来评估识别器的识别准确性。
@@ -149,4 +146,3 @@ document.addEventListener('DOMContentLoaded', run);
 刷新页面，过几秒后你应该看到在右边有一个数字图片的面板。
 
 ![img](https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/img/b675d1a8c09ddf78.png)
-
