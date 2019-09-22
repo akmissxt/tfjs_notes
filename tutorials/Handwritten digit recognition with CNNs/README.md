@@ -148,3 +148,5 @@ document.addEventListener('DOMContentLoaded', run);
 
 刷新页面，过几秒后你应该看到在右边有一个数字图片的面板。
 
+![img](https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/img/b675d1a8c09ddf78.png)
+
