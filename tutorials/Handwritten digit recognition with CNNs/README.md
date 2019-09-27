@@ -5,10 +5,8 @@
 - [2. 开始](#2-%E5%BC%80%E5%A7%8B)
   * [创建一个包含JavaScript的HTML页面](#%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8C%85%E5%90%ABjavascript%E7%9A%84html%E9%A1%B5%E9%9D%A2)
   * [创建数据和代码的 JavaScript 文件](#%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81%E7%9A%84-javascript-%E6%96%87%E4%BB%B6)
-- [测试一下](#%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B)
+  * [测试一下](#%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B)
 - [3. 加载数据](#3-%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE)
-
-
 
 ## 1. 简介
 
@@ -84,7 +82,7 @@
 console.log('Hello TensorFlow');
 ```
 
-## 测试一下
+### 测试一下
 
 现在你已经将 HTML 和 JavaScript 文件创建好了，测试一下。在浏览器中打开 index.html 文件然后打开开发工具的控制台。
 
